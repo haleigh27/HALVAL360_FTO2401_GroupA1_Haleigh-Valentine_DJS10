@@ -1,5 +1,11 @@
 ## Project Brief: DJS10 - Asynchrony
 
+#### Run
+
+1. After cloning the repo, run `npm install` to install the dependencies.
+2. Run `npm run dev` in the terminal.
+3. Visit the localhost port provided in the terminal.
+
 #### Objective
 
 Dive into the asynchronous world of React by creating an application that fetches and displays blog posts from an API. You'll practice handling API calls with the Fetch API, managing application state, and gracefully handling errors.
